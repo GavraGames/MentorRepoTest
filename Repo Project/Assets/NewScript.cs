@@ -17,5 +17,6 @@ public class NewScript : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.forward * Time.deltaTime);
+        //Adding lot of cool stuffff
     }
 }
