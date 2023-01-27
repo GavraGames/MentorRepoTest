@@ -560,7 +560,7 @@ GameObject:
   - component: {fileID: 1898041420}
   - component: {fileID: 1898041419}
   m_Layer: 5
-  m_Name: Homer Buttonada dada da
+  m_Name: Homer Button
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
