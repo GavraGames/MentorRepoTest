@@ -10,6 +10,7 @@ public class NewScript : MonoBehaviour
     void Start()
     {
         transform.eulerAngles = new Vector3(1,2,3);
+        //Better startttttt
     }
 
     // Update is called once per frame
