@@ -9,7 +9,7 @@ public class NewScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        transform.eulerAngles = new Vector3(-69, 420, 1337);
+        transform.eulerAngles = new Vector3(1,2,3);
     }
 
     // Update is called once per frame
